@@ -1820,8 +1820,9 @@ textarea.form-control {
 		}
 	}
 	&, .row {
-		min-height: 700px;
-		height: 100vh;
+		min-height: 100px;
+		height: 50vh;
+		background-color: dimgray;
 	}
 	.subheading-sm {
 		margin-bottom: 30px;
@@ -1872,8 +1873,9 @@ textarea.form-control {
 	}
 	&.block-30-sm {
 		&, .row {
-			min-height: 700px;
-			height: 70vh;
+			min-height: 100px;
+			height: 50vh;
+			background-color: dimgray;
 		}
 		.heading {
 			font-size: 70px;
